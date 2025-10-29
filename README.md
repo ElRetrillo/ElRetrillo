@@ -58,7 +58,7 @@ Mi meta: integrar tecnología, ética y seguridad para construir un mundo digita
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wireshark.svg" height="40" alt="wireshark logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/metasploit.svg" height="40" alt="metasploit logo" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" height="40" alt="metasploit logo" />
   <img width="12" />
 
 </div>
