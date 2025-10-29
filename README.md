@@ -92,12 +92,6 @@ Mi meta: integrar tecnología, ética y seguridad para construir un mundo digita
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Trigoooo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iwv6odlfhbagpla62rc4rhzlcm" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://i.imgur.com/bJ3k4Ih.gif" height="125" />
 </div>
 
