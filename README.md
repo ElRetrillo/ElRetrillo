@@ -3,7 +3,7 @@
 Soy estudiante de **Ingeniería en Tecnologías de la Información** en la **Universidad Católica del Norte (Coquimbo, Chile)**, y fundador de **EclipSec E.I.R.L.**, una empresa dedicada al **hacking ético, auditorías de seguridad y pentesting profesional**.  
 Mi enfoque está en comprender, construir y asegurar sistemas tecnológicos desde la base hasta la capa más crítica.
 
-Apasionado por la **ciberseguridad y el desarrollo de software**, combino la práctica con la investigación constante para crear soluciones reales, seguras y escalables.  
+Interesado por la **ciberseguridad y el desarrollo de software**, combino la práctica con la investigación constante para crear soluciones reales, seguras y escalables.  
 Creo firmemente que *"la seguridad no se improvisa, se construye línea a línea."*
 
 ---
