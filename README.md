@@ -1,101 +1,21 @@
-# 👋 ¡Hola! Soy Daniel Trigo 
+# 💫 About Me:
+# 👋 ¡Hola! Soy Daniel Trigo <br><br>Soy estudiante de **Ingeniería en Tecnologías de la Información** en la **Universidad Católica del Norte (Coquimbo, Chile)**, y fundador de **EclipSec E.I.R.L.**, una empresa dedicada al **hacking ético, auditorías de seguridad y pentesting profesional**.  <br>Mi enfoque está en comprender, construir y asegurar sistemas tecnológicos desde la base hasta la capa más crítica.<br><br>Interesado por la **ciberseguridad y el desarrollo de software**, combino la práctica con la investigación constante para crear soluciones reales, seguras y escalables.  <br>Creo firmemente que *"la seguridad no se improvisa, se construye línea a línea."*<br><br>---<br><br>### 🧠 Áreas de conocimiento<br>- **Ciberseguridad y Pentesting**: Kali Linux, Metasploit, Wireshark, análisis de vulnerabilidades, redes y entornos virtualizados.  <br>- **Desarrollo de Software**: Python, Java, C++, Godot (GDScript) y Arduino para proyectos IoT.  <br>- **Infraestructura y DevOps**: Docker, Ubuntu/Linux, Bash scripting, Git, Postgres, NPM.  <br>- **Entornos de trabajo**: VSCode, VirtualBox, GitHub, TryHackMe, y herramientas colaborativas en la nube.<br><br>---<br><br>### 🚀 Sobre mí<br>Busco evolucionar cada proyecto que emprendo —desde un sistema full-stack, hasta la simulación de un entorno de ataque— con una mentalidad analítica, creativa y enfocada en la mejora continua.  <br>Mi meta: integrar tecnología, ética y seguridad para construir un mundo digital más confiable.<br><br>---<br><br>> 💬 *“La seguridad no es un destino, es un proceso constante de aprendizaje.”*
 
-Soy estudiante de **Ingeniería en Tecnologías de la Información** en la **Universidad Católica del Norte (Coquimbo, Chile)**, y fundador de **EclipSec E.I.R.L.**, una empresa dedicada al **hacking ético, auditorías de seguridad y pentesting profesional**.  
-Mi enfoque está en comprender, construir y asegurar sistemas tecnológicos desde la base hasta la capa más crítica.
 
-Interesado por la **ciberseguridad y el desarrollo de software**, combino la práctica con la investigación constante para crear soluciones reales, seguras y escalables.  
-Creo firmemente que *"la seguridad no se improvisa, se construye línea a línea."*
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ElRetrillo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ElRetrillo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ElRetrillo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ElRetrillo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🧠 Áreas de conocimiento
-- **Ciberseguridad y Pentesting**: Kali Linux, Metasploit, Wireshark, análisis de vulnerabilidades, redes y entornos virtualizados.  
-- **Desarrollo de Software**: Python, Java, C++, Godot (GDScript) y Arduino para proyectos IoT.  
-- **Infraestructura y DevOps**: Docker, Ubuntu/Linux, Bash scripting, Git, Postgres, NPM.  
-- **Entornos de trabajo**: VSCode, VirtualBox, GitHub, TryHackMe, y herramientas colaborativas en la nube.
-
----
-
-### 🚀 Sobre mí
-Busco evolucionar cada proyecto que emprendo —desde un sistema full-stack, hasta la simulación de un entorno de ataque— con una mentalidad analítica, creativa y enfocada en la mejora continua.  
-Mi meta: integrar tecnología, ética y seguridad para construir un mundo digital más confiable.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ElRetrillo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ElRetrillo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> 💬 *“La seguridad no es un destino, es un proceso constante de aprendizaje.”*
-
----
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wireshark.svg" height="40" alt="wireshark logo" />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discordapp.com/users/437706839967268875" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-trigo-tabilo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/datrigob" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElRetrillo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElRetrillo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ElRetrillo.ElRetrillo&left_color=grey&right_color=darkslategrey&left_text=Observadores"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://i.imgur.com/bJ3k4Ih.gif" height="125" />
-</div>
-
-<div>
-  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
